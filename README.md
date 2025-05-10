@@ -30,7 +30,7 @@ AudioJailbreak provides a comprehensive evaluation framework for testing the rob
 
 1. Clone repository:
 ```bash
-git clone https://github.com/PbRQianJiang/AudioJailbreak.git
+git clone https://github.com/mbzuai-nlp/AudioJailbreak
 cd AudioJailbreak
 ```
 
@@ -42,7 +42,7 @@ conda activate Audiojailbreak
 
 3. Download dataset (from Hugging Face):
 ```
-Link: https://huggingface.co/datasets/NEUQ-LIS-LAB/AudioJailbreak
+Link: https://huggingface.co/datasets/MBZUAI/AudioJailbreak
 ```
 
 ## 💾 Dataset
@@ -81,7 +81,7 @@ AudioJailbreak/
 ### 1. Data Preparation
 
 ```
-Link: https://huggingface.co/datasets/NEUQ-LIS-LAB/AudioJailbreak
+Link: [https://huggingface.co/datasets/NEUQ-LIS-LAB/AudioJailbreak](https://huggingface.co/datasets/MBZUAI/AudioJailbreak)
 ```
 
 ### 2. Basic Audio Jailbreaking
