@@ -81,7 +81,7 @@ AudioJailbreak/
 ### 1. Data Preparation
 
 ```
-Link: [https://huggingface.co/datasets/NEUQ-LIS-LAB/AudioJailbreak](https://huggingface.co/datasets/MBZUAI/AudioJailbreak)
+Link: https://huggingface.co/datasets/MBZUAI/AudioJailbreak
 ```
 
 ### 2. Basic Audio Jailbreaking
