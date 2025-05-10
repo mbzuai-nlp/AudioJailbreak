@@ -1,0 +1,14 @@
+类别统计结果:
+==============================
+Expert advice: 159
+Fraud/Deception: 74
+Harassment/Discrimination: 48
+Sexual/Adult content: 44
+Disinformation: 41
+Privacy: 37
+Physical harm: 33
+Malware/Hacking: 27
+Government decision-making: 24
+Economic harm: 13
+==============================
+总计: 500
